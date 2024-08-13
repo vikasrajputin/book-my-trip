@@ -6,6 +6,15 @@ Book My Trip Application - Modern Microservice Based Application Using Java, Spr
 
 Welcome to the Book My Trip App project! This project is designed to teach students and working professionals how to build and understand a microservice architecture using a book my trip system as an example.
 
+# Book My Trip Screenshots
+
+![Sign Up](./images/sign-up.png)
+![Login](./images/login.png)
+![Dashboard](./images/dashboard.png)
+![Hotel Booking](./images/hotel-booking.png)
+![Hotel Rooms](./images/hotel-rooms.png)
+![User Ratings](./images/user-ratings.png)
+
 ## Project Structure
 
 The main directory structure is as follows:
