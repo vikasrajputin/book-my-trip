@@ -1,10 +1,10 @@
-# hotel-booking-app
-Hotel Booking Application - Modern Microservice Based Application Using Java, Spring Boot, React, Docker, Kubernetes, SQL
+# book-my-trip-app
+Book My Trip Application - Modern Microservice Based Application Using Java, Spring Boot, React, Docker, Kubernetes, SQL
 
 
-# Hotel Booking App
+# Book My Trip App
 
-Welcome to the Hotel Booking App project! This project is designed to teach students and working professionals how to build and understand a microservice architecture using a hotel booking system as an example.
+Welcome to the Book My Trip App project! This project is designed to teach students and working professionals how to build and understand a microservice architecture using a book my trip system as an example.
 
 ## Project Structure
 
@@ -13,7 +13,7 @@ The main directory structure is as follows:
 - **backend**: Contains all the backend microservices.
   - **discovery-service**: Manages service discovery for other microservices.
   - **edge-service**: Acts as the API gateway for routing requests to appropriate services.
-- **frontend**: Contains the React JS based frontend for the hotel booking application.
+- **frontend**: Contains the React JS based frontend for the book my trip application.
 - **db**: Contains SQL scripts to initialize the database with sample data.
 
 ## Backend Services
@@ -29,7 +29,7 @@ The main directory structure is as follows:
 ## Frontend
 
 ### React JS Application
-- **Description**: The frontend is built using React JS. It interacts with the backend microservices to provide a seamless user experience for hotel booking.
+- **Description**: The frontend is built using React JS. It interacts with the backend microservices to provide a seamless user experience for book my trip.
 - **Technologies**: React JS, Redux, Axios
 
 ## Database
@@ -50,8 +50,8 @@ The main directory structure is as follows:
 
 - **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/hotel-booking-app.git
-   cd hotel-booking-app
+   git clone https://github.com/yourusername/book-my-trip-app.git
+   cd book-my-trip-app
 
 ### Local Setup
 
